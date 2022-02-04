@@ -246,6 +246,7 @@ p.text {
   margin-left: 20px;
   margin-bottom: 25px;
   font-size: 90%;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
   color: #4f4f4f;
 }
 
@@ -254,6 +255,7 @@ p.text_in {
   margin-left: 37px;
   margin-bottom: 25px;
   font-size: 90%;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
   color: #4f4f4f;
 }
 
@@ -262,6 +264,7 @@ p.text2 {
   margin-left: 20px;
   margin-bottom: 10px;
   font-size: 110%;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
   color: #4f4f4f;
 }
 
@@ -270,6 +273,7 @@ p.text2_in {
   margin-left: 37px;
   margin-bottom: 10px;
   font-size: 110%;
+  font-family:'メイリオ', 'Meiryo', sans-serif;
   color: #4f4f4f;
 }
 
